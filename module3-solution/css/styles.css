@@ -1,5 +1,6 @@
 * {
     box-sizing: border-box;
+    font-family: fantasy; font-family: cursive;
 }
 
 #nav-list > li {
@@ -19,7 +20,7 @@ div section {
 }
 
 #section-3 {
-    background-color: #99FFE6;
+    background-color: #FFB3B3;
 }
 
 #text > h3 {
